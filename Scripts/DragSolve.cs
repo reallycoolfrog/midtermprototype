@@ -31,7 +31,7 @@ public class DragSolve : MonoBehaviour
 
     void createProblemTimer(){
     if (!problemtimerStarted && !problemState){ //Timer hasnt starter and not in problem state
-        problemTimer = Random.Range(10.0f, 20.0f); //Pick a random amnt of time
+        problemTimer = Random.Range(5.0f, 13.0f); //Pick a random amnt of time
         problemtimerStarted = true; //Set the timer
         }
     }
@@ -57,16 +57,14 @@ public class DragSolve : MonoBehaviour
         if(!problemState && !problemtimerStarted){ //ended problem state & timer
         createProblemTimer(); //Restart problem state timer
         problemtimerStarted = true;
-        Debug.Log("Problem timer restarted");
         }
     }
 
     void OnCollisionEnter2D(Collision2D other){
-        if (other.gameObject.name == "Draggable" && problemState){ //In problem state
+        if (other.gameObject.tag == "draggable" && problemState){ //In problem state
             problemState = false; //end problem state!
             problemtimerStarted = false; //make sure timer is off....
             ResetStuff(); //Play this PLEASE
-            Debug.Log("Collision detected");
         }
     }
 

@@ -31,7 +31,7 @@ public class ClickSolve : MonoBehaviour
 
     void createProblemTimer(){
     if (!problemtimerStarted && !problemState){ //Timer hasnt starter and not in problem state
-        problemTimer = Random.Range(20.0f, 40.0f); //Pick a random amnt of time
+        problemTimer = Random.Range(5.0f, 15.0f); //Pick a random amnt of time
         problemtimerStarted = true; //Set the timer
         }
     }

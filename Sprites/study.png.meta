@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 1d5f893cbbffff34784f0c99845be3ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2388161800273412360
+    second: 1
+  - first:
+      213: 5578413726663213371
+    second: 2
+  - first:
+      213: -2007696851948435614
+    second: 3
+  - first:
+      213: -8467866206006999151
+    second: Untitled_Artwork(26)_3
+  - first:
+      213: 5677342356819150127
+    second: Untitled_Artwork(26)_4
+  - first:
+      213: -1253618948358233950
+    second: 4
+  - first:
+      213: 5611640613463135685
+    second: Untitled_Artwork(26)_6
+  - first:
+      213: -8077489455964805827
+    second: 5
+  - first:
+      213: 7200862349063508402
+    second: 6
+  - first:
+      213: 7781233559110655483
+    second: Untitled_Artwork(26)_9
+  - first:
+      213: 7373103989717062887
+    second: Untitled_Artwork(26)_10
+  - first:
+      213: 6421721242154108006
+    second: Untitled_Artwork(26)_11
+  - first:
+      213: -3813617190068459954
+    second: Untitled_Artwork(26)_12
+  - first:
+      213: 3790873560637513686
+    second: study_0
+  - first:
+      213: -6327613941373397149
+    second: study_1
+  - first:
+      213: 6662242469398226202
+    second: study_2
+  - first:
+      213: 3806594507662955551
+    second: study_3
+  - first:
+      213: -1860986913309847372
+    second: study_4
+  - first:
+      213: -3940474281950420328
+    second: study_5
+  - first:
+      213: 5897788382933793376
+    second: study_6
+  - first:
+      213: -8439644778685195744
+    second: study_7
+  - first:
+      213: 2732664208060679538
+    second: study_8
+  - first:
+      213: 4426943583102413849
+    second: study_9
+  - first:
+      213: -2395414145689671530
+    second: study_10
+  - first:
+      213: 1500566587993700513
+    second: study_11
+  - first:
+      213: -5596711974126792321
+    second: study_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: study_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1174
+        width: 870
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df18322b63eb9430800000000000000
+      internalID: 3790873560637513686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_1
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1142
+        width: 866
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36711ac35accf28a0800000000000000
+      internalID: -6327613941373397149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_2
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1148
+        width: 870
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a0045a3a057c50800000000000000
+      internalID: 6662242469398226202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_3
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1532
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f141439598db3d430800000000000000
+      internalID: 3806594507662955551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_4
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1136
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0148423427c26e0800000000000000
+      internalID: -1860986913309847372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 105
+        width: 865
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89268c1a48f9059c0800000000000000
+      internalID: -3940474281950420328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 983
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab135594729d150800000000000000
+      internalID: 5897788382933793376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 119
+        width: 870
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1df7f9cb50ea80800000000000000
+      internalID: -8439644778685195744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_8
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 93
+        width: 865
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27581e37e9f5ce520800000000000000
+      internalID: 2732664208060679538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 821
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca38fdbb9af6d30800000000000000
+      internalID: 4426943583102413849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_10
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 796
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a834a687c1ced0800000000000000
+      internalID: -2395414145689671530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_11
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 503
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a83f278c5513d410800000000000000
+      internalID: 1500566587993700513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: study_12
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 489
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715ff7bc1c7452b0800000000000000
+      internalID: -5596711974126792321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,6 +8,7 @@ public class PetCat : MonoBehaviour
     [SerializeField] private Sprite[] mouseoverArray;
     [SerializeField] private Sprite[] problemArray;
     [SerializeField] private Sprite[] mouseoverproblemArray;
+    [SerializeField] private Sprite[] petArray;
     private int currentFrame;
     private float timer;
     
@@ -33,7 +34,7 @@ public class PetCat : MonoBehaviour
 
     void createProblemTimer(){
     if (!problemtimerStarted && !problemState){ //Timer hasnt starter and not in problem state
-        problemTimer = Random.Range(5.0f, 10.0f); //Pick a random amnt of time
+        problemTimer = Random.Range(5.0f, 15.0f); //Pick a random amnt of time
         problemtimerStarted = true; //Set the timer
         }
     }
@@ -75,7 +76,7 @@ public class PetCat : MonoBehaviour
     void OnMouseDrag(){
         if (problemState){ //If you're dragging mouse in problem state
         petTimer -= Time.deltaTime; //pet timer counts down
-        Debug.Log(petTimer);
+        myRenderer.sprite = petArray[1];
             if(petTimer <= 0){ //Once pet timer reaches zero
             petTimer = 0; //cant go below zero
             problemState = false; //end problem state
